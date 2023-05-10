@@ -56,3 +56,36 @@ Here are some ideas to get you started:
 
 [![LLLLLrf's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LLLLLrf&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+```mermaid
+%%{init: {'theme':'dark'}}%%
+
+mindmap
+  root)Ruofan Liao(
+    Programming
+      (Web Development)
+      (Android Development)
+      (Artificial Intelligence)
+    Music
+      (Composing)
+      Instrument
+        (trombone)
+        (saxophone)
+        (guitar)
+        (piano)
+      (Vocal Music)
+    Travel
+      Europe
+         (British)
+         (France)
+         (Vatican)
+         (Italy)
+         (Switzerland)
+         (Austria)
+      North America
+         (America)
+      Oceania
+         (Australia)
+      Asia
+         (Malaysia)
+         (China)
+```
