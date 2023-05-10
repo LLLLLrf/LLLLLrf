@@ -48,13 +48,17 @@ Here are some ideas to get you started:
   
 ![Visitor Count](https://profile-counter.glitch.me/LLLLLrf/count.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLLLLrf)](https://github.com/LLLLLrf/github-readme-stats)
-  
-![LLLLLrf's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLLLLrf&show_icons=true&theme=tokyonight&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLLLLrf&layout=compact&langs_count=8)](https://github.com/LLLLLrf/github-readme-stats)
+![LLLLLrf's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLLLLrf&show_icons=true&theme=default&bg_color=ffffff)
+    
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LLLLLrf&theme=dark&hide_border=true" />
 </div>
 
 [![LLLLLrf's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LLLLLrf&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![LLLLLrf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LLLLLrf)](https://github.com/anuraghazra/github-readme-stats)
+
+<figure><embed src="https://wakatime.com/share/@LLLLLrf/292e2ffd-7612-4057-a6c4-237cb2ebd48d.svg"></embed></figure>
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
