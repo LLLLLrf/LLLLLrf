@@ -57,7 +57,19 @@ Here are some ideas to get you started:
 
 [![LLLLLrf's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LLLLLrf&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+    <h3>My Repositories</h3>
+    <a href="https://github.com/LLLLLrf/OOP-Assignment">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LLLLLrf&repo=OOP-Assignment&theme=dark&bg_color=121212&hide_border=true" /></a>
+    <a href="https://github.com/LLLLLrf/Web-Develop-Assignment">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LLLLLrf&repo=Web-Develop-Assignment&theme=dark&bg_color=121212&hide_border=true" /></a>
+    <a href="https://github.com/LLLLLrf/JavaAssignment">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LLLLLrf&repo=JavaAssignment&theme=dark&bg_color=121212&hide_border=true" /></a>
+    <a href="https://github.com/LLLLLrf/CafeManagement">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LLLLLrf&repo=CafeManagement&theme=dark&bg_color=121212&hide_border=true" /></a>
+</div>
 
+<h3 align="center">About Me</h3>
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
