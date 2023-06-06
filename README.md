@@ -49,8 +49,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/LLLLLrf/count.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLLLLrf&layout=donut&langs_count=7&exclude_repo=Data-Structure-Subway-Map)](https://github.com/LLLLLrf/github-readme-stats)
-    
-[![LLLLLrf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ruofan&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![LLLLLrf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ruofan&v=2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
         
 ![LLLLLrf's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLLLLrf&show_icons=true&theme=tokyonight&bg_color=151515)
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LLLLLrf&theme=dark&hide_border=true" />
