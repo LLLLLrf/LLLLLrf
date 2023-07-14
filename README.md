@@ -55,8 +55,6 @@ Here are some ideas to get you started:
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=LLLLLrf&theme=dark&hide_border=true" />
 </div>
 
-[![LLLLLrf's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LLLLLrf&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
     <h3>My Repositories</h3>
     <a href="https://github.com/LLLLLrf/OOP-Assignment">
