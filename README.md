@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+ <div align="center">
+  <h1> <img src="https://profile-counter.glitch.me/LLLLLrf/count.svg"> Visitors
+    </h1>
+</div>
 <!-- dynamic typing effect 动态打字效果 -->
 <div align="center">
     <a href="https://github.com/LLLLLrf">
@@ -46,13 +49,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
- 
-  <h3> visitors </h3>
-  
-![Visitor Count](https://profile-counter.glitch.me/LLLLLrf/count.svg)
 
   <img src="./profile-3d-contrib/profile-gitblock.svg">
-
+</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLLLLrf&layout=donut&langs_count=7&exclude_repo=Data-Structure-Subway-Map)](https://github.com/LLLLLrf/github-readme-stats)
 [![LLLLLrf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ruofan&v=2&layout=compact&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
