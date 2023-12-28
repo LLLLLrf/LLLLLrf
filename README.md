@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLLLLrf&layout=donut&langs_count=7&exclude_repo=Data-Structure-Subway-Map)](https://github.com/LLLLLrf/github-readme-stats)
-[![LLLLLrf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ruofan&v=2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![LLLLLrf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ruofan&v=2&layout=compact&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
