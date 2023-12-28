@@ -36,9 +36,12 @@ Here are some ideas to get you started:
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
+</br>
 ![Element](https://img.shields.io/badge/-Element-02845A?style=flat-square&logo=electron&logoColor=ffffff)
 ![Electron](https://img.shields.io/badge/-Electron-002D71?style=flat-square&logo=element&logoColor=ffffff)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-204366?style=flat-square&logo=tensorflow&logoColor=ffffff)
+  <img src="https://img.shields.io/badge/ReactNative-813144?style=flat-square&logo=react&logoColor=ffffff" alt="ReactNative">
+
 </div>
 
 
@@ -47,6 +50,9 @@ Here are some ideas to get you started:
   <h3> visitors </h3>
   
 ![Visitor Count](https://profile-counter.glitch.me/LLLLLrf/count.svg)
+
+  <img src="./profile-3d-contrib/profile-south-season-animate.svg">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLLLLrf&layout=donut&langs_count=7&exclude_repo=Data-Structure-Subway-Map)](https://github.com/LLLLLrf/github-readme-stats)
 [![LLLLLrf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ruofan&v=2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
