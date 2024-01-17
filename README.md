@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 ![Electron](https://img.shields.io/badge/-Electron-002D71?style=flat-square&logo=element&logoColor=ffffff)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-204366?style=flat-square&logo=tensorflow&logoColor=ffffff)
   <img src="https://img.shields.io/badge/ReactNative-813144?style=flat-square&logo=react&logoColor=ffffff" alt="ReactNative">
+  <img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white" alt="Linux">
 
 </div>
 
