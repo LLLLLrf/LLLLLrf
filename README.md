@@ -73,6 +73,8 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LLLLLrf&repo=JavaAssignment&theme=solarized-light&hide_border=true" /></a>
     <a href="https://github.com/LLLLLrf/CafeManagement">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LLLLLrf&repo=CafeManagement&theme=solarized-light&hide_border=true" /></a>
+    <a href="https://github.com/LLLLLrf/ros2_ws">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LLLLLrf&repo=ros2_ws&theme=solarized-light&hide_border=true" /></a>
 </div>
 
 <h3 align="center">About Me</h3>
