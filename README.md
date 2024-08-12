@@ -61,8 +61,12 @@ Here are some ideas to get you started:
 
 <div align="center">
     <h3>My Repositories</h3>
-    <a href="https://github.com/LLLLLrf/OOP-Assignment">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LLLLLrf&repo=OOP-Assignment&theme=solarized-light&&hide_border=true" /></a>
+    <a href="https://github.com/LLLLLrf/BodyBuddy">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LLLLLrf&repo=BodyBuddy&theme=solarized-light&&hide_border=true" /></a>
+    <a href="https://github.com/LLLLLrf/WearWizard">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LLLLLrf&repo=WearWizard&theme=solarized-light&&hide_border=true" /></a>
+    <a href="https://github.com/LLLLLrf/GPA-Calculate">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LLLLLrf&repo=GPA-Calculate&theme=solarized-light&&hide_border=true" /></a>
     <a href="https://github.com/LLLLLrf/Web-Develop-Assignment">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LLLLLrf&repo=Web-Develop-Assignment&theme=solarized-light&hide_border=true" /></a>
     <a href="https://github.com/LLLLLrf/JavaAssignment">
