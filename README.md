@@ -60,59 +60,34 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2051%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 112 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                165 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-🌆 Daytime                387 commits         ████████░░░░░░░░░░░░░░░░░   33.42 % 
-🌃 Evening                285 commits         ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-🌙 Night                  321 commits         ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+🌞 Morning                165 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+🌆 Daytime                390 commits         ████████░░░░░░░░░░░░░░░░░   33.59 % 
+🌃 Evening                285 commits         ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+🌙 Night                  321 commits         ███████░░░░░░░░░░░░░░░░░░   27.65 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   237 commits         █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-Tuesday                  191 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Wednesday                248 commits         █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-Thursday                 168 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Friday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Saturday                 65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Sunday                   58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Monday                   237 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Tuesday                  191 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Wednesday                251 commits         █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Thursday                 168 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Friday                   191 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Saturday                 65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Sunday                   58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
 💻 Operating System: 
 No Activity Tracked This Week
 ```
@@ -129,8 +104,12 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 09/10/2024 08:23:56 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/LLLLLrf/LLLLLrf/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/10/2024 09:20:08 UTC
 <!--END_SECTION:waka-->
 
 
