@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 
 </div>
 
+<!--START_SECTION:waka-->
+
 <div align="center">
     <h3>My Repositories</h3>
     <a href="https://github.com/LLLLLrf/BodyBuddy">
