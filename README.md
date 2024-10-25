@@ -136,7 +136,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 <h3 align="center">About Me</h3>
 
 ```mermaid
-%%{init: {'theme': 'neutral'}}%%
+%%{init: {'theme': 'dark'}}%%
 
 mindmap
   root)**Ruofan Liao**🥇(
