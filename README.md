@@ -151,7 +151,7 @@ mindmap
         (saxophone)
         (guitar)
         (piano)
-      (Vocal Music)
+        (Vocal Music)
     Travel
       Europe
          (British)
@@ -160,6 +160,7 @@ mindmap
          (Italy)
          (Switzerland)
          (Austria)
+         (Spain)
       North America
          (America)
       Oceania
