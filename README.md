@@ -147,10 +147,10 @@ mindmap
     Music
       (Composing)
       Instrument
-        (trombone)
-        (saxophone)
-        (guitar)
-        (piano)
+        (Trombone)
+        (Saxophone)
+        (Guitar)
+        (Piano)
         (Vocal Music)
     Travel
       Europe
