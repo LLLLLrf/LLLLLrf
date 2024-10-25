@@ -136,15 +136,15 @@ Dart                     1 repo              █░░░░░░░░░░�
 <h3 align="center">About Me</h3>
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
+%%{init: {'theme': 'neutral'}}%%
 
 mindmap
-  root)Ruofan Liao(
-    Programming
+  root)**Ruofan Liao**🥇(
+    Programming 💻
       (Web Development)
       (Android Development)
       (Artificial Intelligence)
-    Music
+    Music 🎵
       (Composing)
       Instrument
         (Trombone)
@@ -152,7 +152,7 @@ mindmap
         (Guitar)
         (Piano)
         (Vocal Music)
-    Travel
+    Travel 🥾
       Europe
          (British)
          (France)
