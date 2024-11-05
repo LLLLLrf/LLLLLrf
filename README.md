@@ -143,7 +143,7 @@ mindmap
     Programming 💻
       (Web Development)
       (Android Development)
-      (Artificial Intelligence)
+      (Machine Learning)
     Music 🎵
       (Composing)
       Instrument
