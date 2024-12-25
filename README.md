@@ -97,8 +97,8 @@ Sunday                   68 commits          █░░░░░░░░░░�
 
 ```text
 💻 Operating System: 
-Linux                    3 hrs 54 mins       █████████████████████░░░░   82.04 % 
-Windows                  51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Linux                    3 hrs 15 mins       ████████████████████░░░░░   79.14 % 
+Windows                  51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +118,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LLLLLrf/LLLLLrf/main/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2024 16:21:24 UTC
+ Last Updated on 25/12/2024 17:16:46 UTC
 <!--END_SECTION:waka-->
 
 
