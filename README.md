@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -97,8 +97,8 @@ Sunday                   71 commits          █░░░░░░░░░░�
 
 ```text
 💻 Operating System: 
-Linux                    29 mins             ██████████████░░░░░░░░░░░   55.92 % 
-Windows                  22 mins             ███████████░░░░░░░░░░░░░░   44.08 % 
+Windows                  35 mins             ██████████████░░░░░░░░░░░   54.94 % 
+Linux                    29 mins             ███████████░░░░░░░░░░░░░░   45.06 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +118,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LLLLLrf/LLLLLrf/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2025 16:21:19 UTC
+ Last Updated on 02/03/2025 17:14:50 UTC
 <!--END_SECTION:waka-->
 
 
