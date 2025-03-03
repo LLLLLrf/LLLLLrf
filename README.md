@@ -165,16 +165,18 @@ mindmap
       Europe
          (British)
          (France)
-         (Vatican)
          (Italy)
          (Switzerland)
          (Austria)
          (Spain)
+         (Vatican)
+         (Liechtenstein)
       North America
          (America)
       Oceania
          (Australia)
       Asia
          (Malaysia)
+         (Singapore)
          (China)
 ```
