@@ -171,7 +171,7 @@ mindmap
          (Vatican)
          (Liechtenstein)
       North America
-         (America)
+         (United State)
       Oceania
          (Australia)
       Asia
