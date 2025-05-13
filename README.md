@@ -24,18 +24,18 @@ Here are some ideas to get you started:
   <h1> <img src="https://profile-counter.glitch.me/LLLLLrf/count.svg"> Visitors
     </h1>
 </div>
-<!-- dynamic typing effect 动态打字效果 -->
 
+<!-- dynamic typing effect 动态打字效果 -->
 <div align="center">
     <a href="https://github.com/LLLLLrf">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome to my github!&center=true&size=27" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=44&duration=4480&pause=950&color=5AF718&background=46F96B00&center=true&vCenter=true&width=440&height=50&lines=Hi%2C+I'm+Ruofan+Liao;Welcome+to+my+github+page!" alt="Typing SVG" />
     </a>
 </div>
+
 <!--  typing gif  -->
  <div align="center">
     <img src="./resources/developing.gif" /><br>
  </div>
-
 
 <div align="center">
 
