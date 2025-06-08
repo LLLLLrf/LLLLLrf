@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- dynamic typing effect 动态打字效果 -->
 <div align="center">
     <a href="https://github.com/LLLLLrf">
-     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=45&duration=4480&pause=950&color=5AF718&background=46F96B00&center=true&vCenter=true&width=500&height=56&lines=Hi%2C+I'm+Ruofan+Liao;Welcome+to+my+github+page!" alt="Typing SVG" />
+     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=45&duration=4480&pause=950&color=F2F76EFF&background=46F96B00&center=true&vCenter=true&width=500&height=56&lines=Hi%2C+I'm+Ruofan+Liao;Welcome+to+my+github+page!" alt="Typing SVG" />
     </a>
 </div>
 
