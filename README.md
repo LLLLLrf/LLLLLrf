@@ -72,34 +72,6 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-🌆 Daytime                471 commits         █████████░░░░░░░░░░░░░░░░   34.38 % 
-🌃 Evening                360 commits         ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-🌙 Night                  356 commits         ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   284 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Tuesday                  227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Wednesday                274 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Thursday                 197 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Friday                   213 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Saturday                 94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Sunday                   81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -117,7 +89,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LLLLLrf/LLLLLrf/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2025 16:26:54 UTC
+ Last Updated on 13/06/2025 17:18:44 UTC
 <!--END_SECTION:waka-->
 
 
