@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
@@ -103,11 +103,11 @@ Windows                  4 hrs 15 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ███████████░░░░░░░░░░░░░░   44.12 % 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Prolog                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Python                   14 repos            ███████████░░░░░░░░░░░░░░   42.42 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Prolog                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
@@ -117,7 +117,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LLLLLrf/LLLLLrf/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2025 15:21:29 UTC
+ Last Updated on 02/08/2025 16:26:17 UTC
 <!--END_SECTION:waka-->
 
 
