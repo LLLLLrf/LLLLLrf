@@ -120,7 +120,7 @@ Dart                     1 repo              █░░░░░░░░░░�
  Last Updated on 21/08/2025 15:22:24 UTC
 <!--END_SECTION:waka-->
 
-
+<!--
 <div align="center">
     <h3>My Repositories</h3>
     <a href="https://github.com/LLLLLrf/BodyBuddy">
@@ -140,6 +140,7 @@ Dart                     1 repo              █░░░░░░░░░░�
     <a href="https://github.com/LLLLLrf/ros2_ws">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=LLLLLrf&repo=ros2_ws&theme=solarized-light&hide_border=true" /></a>
 </div>
+-->
 
 <h3 align="center">About Me</h3>
 
