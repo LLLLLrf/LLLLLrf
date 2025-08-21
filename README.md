@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <div align="center">
+<!-- <div align="center">
   <h1> <img src="https://profile-counter.glitch.me/LLLLLrf/count.svg"> Visitors
     </h1>
-</div>
+</div> -->
 
 <!-- dynamic typing effect 动态打字效果 -->
 <div align="center">
