@@ -142,10 +142,11 @@ Dart                     1 repo              █░░░░░░░░░░�
 </div>
 -->
 
+<!--
 <h3 align="center">About Me</h3>
 
 ```mermaid
-%%{init: {'theme': 'dark'}}%%
+%%{init: {'theme': 'dark', 'themeVariables': { 'lineColor': '#000000', 'primaryColor': '#1E1E1E', 'primaryTextColor': '#FFFFFF'}}}%%
 
 mindmap
   root)**Ruofan Liao**🥇(
@@ -180,3 +181,4 @@ mindmap
          (Singapore)
          (China)
 ```
+-->
