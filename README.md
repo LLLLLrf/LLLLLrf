@@ -68,8 +68,6 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%2013%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.00%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -117,7 +115,7 @@ Prolog                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LLLLLrf/LLLLLrf/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 15:24:02 UTC
+ Last Updated on 02/01/2026 16:28:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
