@@ -68,37 +68,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-510%20hrs%203%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.00%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-🌆 Daytime                480 commits         ████████░░░░░░░░░░░░░░░░░   33.73 % 
-🌃 Evening                394 commits         ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-🌙 Night                  363 commits         ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   307 commits         █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Tuesday                  230 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Wednesday                282 commits         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Thursday                 203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Friday                   218 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Saturday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Sunday                   87 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Python** 
 
@@ -117,7 +87,7 @@ Prolog                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LLLLLrf/LLLLLrf/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 11:18:49 UTC
+ Last Updated on 03/01/2026 12:42:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
